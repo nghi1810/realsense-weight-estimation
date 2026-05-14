@@ -24,7 +24,8 @@ Extracting features related to object geometry
 Applying estimation techniques to predict weight
 
 The system has been tested on use cases involving livestock (e.g., pigs) and agricultural products (e.g., strawberries), where non-contact measurement is particularly beneficial.
-
+<img width="1245" height="615" alt="Screenshot 2026-05-14 at 11 30 43" src="https://github.com/user-attachments/assets/b12dbf9e-5194-46e5-bec0-6e370f3fe1a5" />
+<img width="1239" height="700" alt="Screenshot 2026-05-14 at 11 30 48" src="https://github.com/user-attachments/assets/e3b31442-5309-4ec9-be3d-b7b932627956" />
 Current Progress
 
 At the current stage, the core system has been successfully implemented. The data processing pipeline is functional, and initial weight estimation results have been obtained. These results demonstrate the feasibility of using depth-based approaches for this problem.
@@ -62,21 +63,14 @@ This project represents an ongoing effort to bridge the gap between computer vis
 Although still under development, the current system lays a strong foundation for future research and practical applications. Continuous improvements and integration of advanced techniques such as multimodal learning are expected to further enhance its performance and usability.
 
 Estimate object weight using Intel RealSense depth camera and computer vision techniques.
-<img width="996" height="470" alt="image" src="https://github.com/user-attachments/assets/13c8f6e0-c282-4346-8f9a-3fd20c1fafd4" />
+<img width="1220" height="663" alt="Screenshot 2026-05-14 at 11 30 54" src="https://github.com/user-attachments/assets/612400d1-e738-4c36-a8ee-f7e21ece9ea0" />
 
-model pointnet
-
-<img width="531" height="547" alt="image" src="https://github.com/user-attachments/assets/dadee175-42da-4b6e-94b3-4fd582384ee8" />
-
-<img width="1172" height="613" alt="image" src="https://github.com/user-attachments/assets/060e1edc-cfb0-43ce-bf75-f45a225412d3" />
-
-
-model DGCNN
-
-<img width="1666" height="501" alt="image" src="https://github.com/user-attachments/assets/cf296b5e-d9f7-4e37-ba2c-cf1844288284" />
+<img width="1190" height="567" alt="Screenshot 2026-05-14 at 11 30 20" src="https://github.com/user-attachments/assets/51ded93c-6f9f-49f7-a1b8-0e0d10e8f577" />
+<img width="1234" height="686" alt="Screenshot 2026-05-14 at 11 30 25" src="https://github.com/user-attachments/assets/ba78adf0-1d4d-4773-8035-7045595d0102" />
+<img width="1163" height="644" alt="Screenshot 2026-05-14 at 11 30 32" src="https://github.com/user-attachments/assets/745e3943-f578-4d4d-afcb-51da4e27e2e9" />
+<img width="1110" height="561" alt="Screenshot 2026-05-14 at 11 30 37" src="https://github.com/user-attachments/assets/13856dbb-3f26-4871-9383-5e39dd25c7dc" />
 
 
-<img width="569" height="591" alt="image" src="https://github.com/user-attachments/assets/cd3eb1e5-b9bb-45cf-80c8-328e59996c0b" />
 
 
 
