@@ -1,0 +1,20 @@
+# Core vision & depth
+pyrealsense2==2.55.1.6486
+opencv-python==4.10.0.84
+open3d==0.18.0
+
+# Deep learning
+tensorflow==2.15.0
+torch==2.2.2
+torchvision==0.17.2
+
+# Object detection
+ultralytics==8.2.18
+
+# ML utilities
+numpy==1.26.4
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# Visualisation / plotting
+matplotlib==3.9.0
